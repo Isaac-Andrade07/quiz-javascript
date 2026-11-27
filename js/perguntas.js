@@ -17,7 +17,7 @@ export const PERGUNTAS = [
   },
   {
     categoria: "basico",
-    pergunta: "E com dois iguais?",
+    pergunta: "Qual é o resultado desta comparação com ==?",
     codigo: '1 == "1"',
     opcoes: ["true", "false", "NaN", "Erro"],
     correta: 0,
@@ -48,7 +48,7 @@ export const PERGUNTAS = [
   },
   {
     categoria: "basico",
-    pergunta: "E agora?",
+    pergunta: "Qual o resultado desta subtração?",
     codigo: '"5" - 3',
     opcoes: ["2", '"53"', "NaN", '"2"'],
     correta: 0,
